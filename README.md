@@ -12,7 +12,7 @@ I am an experienced Android developer with a strong background in Java and Kotli
 <a href="https://www.linkedin.com/in/mohammadazadbar" rel="nofollow">
   <img align="left" alt="mohammadohadi's LinkedIN" width="25px" src="https://raw.githubusercontent.com/arashaltafi/arashaltafi/main/linkedin.png" style="max-width: 100%;">
 </a>
-<a href="https://t.me/a_mohammad95" rel="nofollow">
+<a href="https://t.me/mohammad_ohadi" rel="nofollow">
   <img align="left" alt="mohammad Telegram" width="25px" src="https://raw.githubusercontent.com/arashaltafi/arashaltafi/main/telegram.png" style="max-width: 100%;">
 </a>
 
