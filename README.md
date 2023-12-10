@@ -6,7 +6,7 @@ I am Mohammad Ohadi, a results-driven .NET developer with 12 years of experience
 <br/>
 <table >
   <tr>
-    <td  style="text-align: center;"><a href="[https://www.linkedin.com/in/mohammad_ohadi](https://www.linkedin.com/in/mohammad-ohadi-a1298b172/)" rel="nofollow"><img align="left" alt="mohammadohadi's LinkedIN" width="20px" src="https://raw.githubusercontent.com/arashaltafi/arashaltafi/main/linkedin.png" style=""</a></td>
+    <td  style="text-align: center;"><a href="https://www.linkedin.com/in/mohammad-ohadi-a1298b172/" rel="nofollow"><img align="left" alt="mohammadohadi's LinkedIN" width="20px" src="https://raw.githubusercontent.com/arashaltafi/arashaltafi/main/linkedin.png" style=""</a></td>
       <td  style="text-align: center;"><a href="https://t.me/mohammad_ohadi" rel="nofollow"><img align="left" alt="mohammad Telegram" width="20px" src="https://raw.githubusercontent.com/arashaltafi/arashaltafi/main/telegram.png" style=""></a></td>
     <td  style="text-align: center;"><a href="https://www.instagram.com/mohammad_ohadi/" rel="nofollow"><img align="left" alt="mohammadohadi's Instagram" width="20px" src="https://raw.githubusercontent.com/arashaltafi/arashaltafi/main/instagram.png" ></a></td    
   </tr>
