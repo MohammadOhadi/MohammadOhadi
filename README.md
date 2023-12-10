@@ -3,12 +3,11 @@
 
 I am Mohammad Ohadi, a results-driven .NET developer with 12 years of experience in C# and various .NET, I excel at translating business needs into efficient software solutions. Proactive, adaptable, and committed to excellence, I bring a Master's degree in Computer Software Engineering
 <br/>
+<br/>
 <a href="https://www.instagram.com/mohammad_ohadi/" rel="nofollow">
   <img align="left" alt="mohammadohadi's Instagram" width="25px" src="https://raw.githubusercontent.com/arashaltafi/arashaltafi/main/instagram.png" style="max-width: 100%;">
 </a>
-<!-- <a href="https://twitter.com/M_Azadbar">
-  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" alt="" />
-</a> -->
+
 <a href="https://www.linkedin.com/in/mohammadazadbar" rel="nofollow">
   <img align="left" alt="mohammadohadi's LinkedIN" width="25px" src="https://raw.githubusercontent.com/arashaltafi/arashaltafi/main/linkedin.png" style="max-width: 100%;">
 </a>
