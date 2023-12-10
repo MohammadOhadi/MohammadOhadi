@@ -6,29 +6,12 @@ I am Mohammad Ohadi, a results-driven .NET developer with 12 years of experience
 <br/>
 <table >
   <tr>
-    <td  style="text-align: center;">
-<a href="https://www.instagram.com/mohammad_ohadi/" rel="nofollow">
-  <img align="left" alt="mohammadohadi's Instagram" width="30px" src="https://raw.githubusercontent.com/arashaltafi/arashaltafi/main/instagram.png" >
-</a>
-    </td>
-        <td  style="text-align: center;"><a href="https://www.linkedin.com/in/mohammadazadbar" rel="nofollow">
-  <img align="left" alt="mohammadohadi's LinkedIN" width="30px" src="https://raw.githubusercontent.com/arashaltafi/arashaltafi/main/linkedin.png" style="">
-</a></td>
-       <td  style="text-align: center;">
-        <a href="https://t.me/mohammad_ohadi" rel="nofollow">
-  <img align="left" alt="mohammad Telegram" width="30px" src="https://raw.githubusercontent.com/arashaltafi/arashaltafi/main/telegram.png" style="">
-</a>
-      </td>
+    <td  style="text-align: center;"><a href="https://www.linkedin.com/in/mohammad_ohadi" rel="nofollow"><img align="left" alt="mohammadohadi's LinkedIN" width="20px" src="https://raw.githubusercontent.com/arashaltafi/arashaltafi/main/linkedin.png" style=""</a></td>
+    <td  style="text-align: center;"><a href="https://www.instagram.com/mohammad_ohadi/" rel="nofollow"><img align="left" alt="mohammadohadi's Instagram" width="20px" src="https://raw.githubusercontent.com/arashaltafi/arashaltafi/main/instagram.png" ></a></td>
+    <td  style="text-align: center;"><a href="https://t.me/mohammad_ohadi" rel="nofollow"><img align="left" alt="mohammad Telegram" width="20px" src="https://raw.githubusercontent.com/arashaltafi/arashaltafi/main/telegram.png" style=""></a></td>
   </tr>
 </table>
-
-
-
-
-
 <br />
-
-
   <img align="right" alt="GIF" src="https://github.com/mohammadazadbar1995/mohammadazadbar1995/blob/main/code.gif?raw=true" width="400" height="220" />
   
 - 💼 Any freelance work? do reach, [email](mailto:ohadi.mohammad@gmail.com) :)
