@@ -1,7 +1,7 @@
 ### hey there 
 
 
-I am an experienced Android developer with a strong background in Java and Kotlin programming,as well as expertise in Android SDK, Android Studio, andrelated tools. Skilled in developing and maintaining high-quality mobile applications that meet user needs and business goals, with a focus on performance, usability, and security. Proven ability to work collaboratively in cross-functional teams and to deliver projects on time and within budget. Passionate about staying up-to-date with the latest trends and best practices in Android development and continuously improving skills.
+I am an ity. Proven ability to work collaboratively in cross-functional teams and to deliver projects on time and within budget. Passionate about staying up-to-date with the latest trends and best practices in Android development and continuously improving skills.
 
 <a href="https://www.instagram.com/mohammad_ohadi/" rel="nofollow">
   <img align="left" alt="mohammadohadi's Instagram" width="25px" src="https://raw.githubusercontent.com/arashaltafi/arashaltafi/main/instagram.png" style="max-width: 100%;">
