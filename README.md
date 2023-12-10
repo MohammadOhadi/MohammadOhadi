@@ -15,19 +15,8 @@ I am Mohammad Ohadi, a results-driven .NET developer with 12 years of experience
 
   
 - 💼 Any freelance work? do reach, [email](mailto:ohadi.mohammad@gmail.com) :)
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything, I am happy to help;         
 
-
-📊 **this week i spent my time on:**
-
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
 
 
 📈 My github stats
