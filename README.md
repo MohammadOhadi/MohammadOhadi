@@ -18,5 +18,5 @@ I am Mohammad Ohadi, a results-driven .NET developer with 12 years of experience
 - 💬 Ask me about anything, I am happy to help;
 
 <br/><br/>
-![Alt Text](https://drive.google.com/uc?id=1MQLa180MHnL35SrY47JNq7_gBlor9xUe)
+[![Alt Text](https://drive.google.com/uc?id=1MQLa180MHnL35SrY47JNq7_gBlor9xUe)](https://drive.google.com/file/d/1MQLa180MHnL35SrY47JNq7_gBlor9xUe/view?usp=sharing)https://drive.google.com/file/d/1MQLa180MHnL35SrY47JNq7_gBlor9xUe/view?usp=sharing
 
