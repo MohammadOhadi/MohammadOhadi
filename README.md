@@ -19,6 +19,6 @@ I am Mohammad Ohadi, a results-driven .NET developer with 12 years of experience
 
 <br/><br/>
  <p align="center">
-  <img src="https://drive.google.com/file/d/1MQLa180MHnL35SrY47JNq7_gBlor9xUe/view?usp=sharing)https://drive.google.com/file/d/1MQLa180MHnL35SrY47JNq7_gBlor9xUe/view?usp=sharing" alt="Your Image Description">
+  <img src="https://drive.google.com/file/d/1MQLa180MHnL35SrY47JNq7_gBlor9xUe/view?usp=sharing" alt="Your Image Description">
 </p>
 
